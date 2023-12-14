@@ -144,8 +144,8 @@ CMakeFiles/Test.dir/main.cpp.obj: E:/vs_workspace/c++-workspace/c-plus-scaffold/
   D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
   D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
   D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/vs_workspace/c++-workspace/base_project/include/coordin.h \
-  E:/vs_workspace/c++-workspace/base_project/main.cpp
+  E:/vs_workspace/c++-workspace/c-plus-scaffold/include/coordin.h \
+  E:/vs_workspace/c++-workspace/c-plus-scaffold/main.cpp
 
 CMakeFiles/Test.dir/src/file2.cpp.obj: E:/vs_workspace/c++-workspace/c-plus-scaffold/src/file2.cpp \
   D:/msys64/ucrt64/include/_mingw.h \
@@ -306,8 +306,8 @@ CMakeFiles/Test.dir/src/file2.cpp.obj: E:/vs_workspace/c++-workspace/c-plus-scaf
   D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
   D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
   D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
-  E:/vs_workspace/c++-workspace/base_project/include/coordin.h \
-  E:/vs_workspace/c++-workspace/base_project/src/file2.cpp
+  E:/vs_workspace/c++-workspace/c-plus-scaffold/include/coordin.h \
+  E:/vs_workspace/c++-workspace/c-plus-scaffold/src/file2.cpp
 
 
 D:/msys64/ucrt64/include/c++/13.2.0/bits/exception_defines.h:
@@ -340,7 +340,7 @@ D:/msys64/ucrt64/include/c++/13.2.0/backward/binders.h:
 
 D:/msys64/ucrt64/include/c++/13.2.0/bits/stl_iterator.h:
 
-E:/vs_workspace/c++-workspace/base_project/main.cpp:
+E:/vs_workspace/c++-workspace/c-plus-scaffold/main.cpp:
 
 D:/msys64/ucrt64/include/c++/13.2.0/bits/cxxabi_init_exception.h:
 
@@ -608,7 +608,7 @@ D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h:
 
 D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h:
 
-E:/vs_workspace/c++-workspace/base_project/include/coordin.h:
+E:/vs_workspace/c++-workspace/c-plus-scaffold/include/coordin.h:
 
 D:/msys64/ucrt64/include/c++/13.2.0/tr1/special_function_util.h:
 
@@ -634,4 +634,4 @@ D:/msys64/ucrt64/include/c++/13.2.0/tr1/poly_laguerre.tcc:
 
 D:/msys64/ucrt64/include/math.h:
 
-E:/vs_workspace/c++-workspace/base_project/src/file2.cpp:
+E:/vs_workspace/c++-workspace/c-plus-scaffold/src/file2.cpp:

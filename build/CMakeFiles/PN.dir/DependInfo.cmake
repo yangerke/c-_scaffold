@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "E:/vs_workspace/c++-workspace/base_project/main.cpp" "CMakeFiles/PN.dir/main.cpp.obj" "gcc" "CMakeFiles/PN.dir/main.cpp.obj.d"
+  "E:/vs_workspace/c++-workspace/c-plus-scaffold/main.cpp" "CMakeFiles/PN.dir/main.cpp.obj" "gcc" "CMakeFiles/PN.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -1,5 +1,5 @@
-CMakeFiles/base_project.dir/main.cpp.obj: \
- E:\vs_workspace\c++-workspace\base_project\main.cpp \
+CMakeFiles/c-plus-scaffold.dir/main.cpp.obj: \
+ E:\vs_workspace\c++-workspace\c-plus-scaffold\main.cpp \
  D:/msys64/ucrt64/include/c++/13.2.0/iostream \
  D:/msys64/ucrt64/include/c++/13.2.0/bits/requires_hosted.h \
  D:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -134,4 +134,4 @@ CMakeFiles/base_project.dir/main.cpp.obj: \
  D:/msys64/ucrt64/include/c++/13.2.0/bits/ostream.tcc \
  D:/msys64/ucrt64/include/c++/13.2.0/istream \
  D:/msys64/ucrt64/include/c++/13.2.0/bits/istream.tcc \
- E:\vs_workspace\c++-workspace\base_project\include/coordin.h
+ E:\vs_workspace\c++-workspace\c-plus-scaffold\include/coordin.h
