@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/vs_workspace/c++-workspace/c-plus-scaffold/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Test.dir/includes_CXX.rsp -g -o CMakeFiles\\Test.dir\\main.cpp.obj -c E:\\vs_workspace\\c++-workspace\\c-plus-scaffold\\main.cpp",
+  "file": "E:/vs_workspace/c++-workspace/c-plus-scaffold/main.cpp",
+  "output": "CMakeFiles/Test.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/vs_workspace/c++-workspace/c-plus-scaffold/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Test.dir/includes_CXX.rsp -g -o CMakeFiles\\Test.dir\\src\\file2.cpp.obj -c E:\\vs_workspace\\c++-workspace\\c-plus-scaffold\\src\\file2.cpp",
+  "file": "E:/vs_workspace/c++-workspace/c-plus-scaffold/src/file2.cpp",
+  "output": "CMakeFiles/Test.dir/src/file2.cpp.obj"
+}
+]
